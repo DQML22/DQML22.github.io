@@ -37,7 +37,7 @@ Things you can customise in `_data/settings.yml` (no HTML/CSS):
 - Testimonials Section
 - Client Slider Section
 - Contact Section
-
+- Hey I'm me
 ## Deployment
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
