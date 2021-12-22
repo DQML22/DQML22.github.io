@@ -1,7 +1,7 @@
 ---
 layout: about
-title: Dynamics, quantum effects and machine learning in materials science and computational chemistry (DQML22)
-author: Johnathan Smith
+title: DQML22
+author: Mario Galante
 image: assets/images/about/about_us.jpeg
 signature: assets/images/about/signature.png
 ---
