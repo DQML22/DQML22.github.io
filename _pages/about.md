@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About the DQML 2022
-image: assets/images/about/about_us.jpeg
+image: assets/images/about/logo_dqml22.png
 ---
 
 <center><br><b>
