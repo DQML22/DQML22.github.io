@@ -59,24 +59,6 @@ blurb:
 blurb-btn-link: '/location'
 blurb-btn-name: Location of the hotel
 
-
-# About Page
-
-# My Team Section
-team:
-  - title : "Oliver T. Unke"
-    image : "assets/images/team/member-1.png"
-    designation : "Technische Universität Berlin"
-    
-  - title : "Rocco Martinazzo"
-    image : "assets/images/team/member-3.png"
-    designation : "Università degli Studi di Milano Statale"
-    
-  - title : "Alessandro Lunghi"
-    image : "assets/images/team/member-2.png"
-    designation : "Trinity College Dublin"
-
-
 #-------------------------------
 # Client Slider Section
 
