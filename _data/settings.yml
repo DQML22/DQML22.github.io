@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome to Dynamics, Quantum Effects and Machine Learning in Materials Science and Computational Chemistry 2022 conference information page!
+  hero-title: "DQML conference 2022: Dynamics, Quantum Effects, and Machine Learning in Materials Science and Computational Chemistry, 01.02.2022 - 04.02.2022"
 
 #social:
 #- {icon: "ti-facebook", link: "#"}
