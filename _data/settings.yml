@@ -62,17 +62,17 @@ blurb-btn-name: know more
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Oliver T. Unke"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Technische Universität Berlin"
     
-  - title : "Julias Carlie"
+  - title : "Rocco Martinazzo"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Università degli Studi di Milano Statale"
     
-  - title : "John Doe"
+  - title : "Alessandro Lunghi"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Trinity College Dublin"
 
 
 #-------------------------------
