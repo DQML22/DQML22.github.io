@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome to  <br> DQML <br> 2022 conference information page!
+  hero-title: Welcome to Dynamics, Quantum Effects and Machine Learning in Materials Science and Computational Chemistry 2022 conference information page!
 
 #social:
 #- {icon: "ti-facebook", link: "#"}
@@ -53,12 +53,8 @@ hero:
 
 # About Section
 blurb:
-  This is the official homepage of the DQML (Dynamics , Quantum Effects, and Machine Learning in Materials Science and Computational Chemistry) 2022 conference organized jointly by the University of Luxembourg and the University of Warwick, to be held in Austria, Hintertux, from 1/2/2022-4/2/2022.
-  <br>
-  <br>
+  This is the official homepage of the DQML (Dynamics, Quantum Effects and Machine Learning in Materials Science and Computational Chemistry) 2022 conference organized jointly by the University of Luxembourg and the University of Warwick, to be held in Austria, Hintertux, from 1/2/2022-4/2/2022.
   The registration is already closed. We thank you all for considering this conference. We contacted all participants whose talks have been selected.
-  <br>
-  <br>
   To be in line with all COVID restrictions, FFP2 masks will be mandatory throughout the conference. We wish you all a safe travel and  and are looking forward to a great and safe conference.
 blurb-btn-link: '/about'
 blurb-btn-name: know more
