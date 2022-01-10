@@ -18,5 +18,3 @@ and Prof. Allesandro Lunghi.
 The website has been created by Kyunghoon Han, Alessio Fallani, James Gardner, and Wojciech Stark.<br>
 The logo of the conference has been created by Sam Hall.
 </center>
-
-The image file is assets/images/about/about_us.jpeg
