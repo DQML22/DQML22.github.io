@@ -15,7 +15,6 @@ menu:
 - {name: Location, link: '/location'}
 - {name: Schedule, link: '/schedule'}
 - {name: Speakers, link: '/speakers'}
-- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
