@@ -1,6 +1,6 @@
 ---
 layout: about
-title: DQML22
+title: About the DQML 2022
 author: Mario Galante
 image: assets/images/about/about_us.jpeg
 ---
