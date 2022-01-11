@@ -6,7 +6,7 @@ image:  assets/images/team/member-2.png
 author: Kyunghoon Han
 tags:   Invited_Speaker
 ---
-University of Milan
+Trinity College Dublin 
 
 **Title of the talk:** TBA
 
