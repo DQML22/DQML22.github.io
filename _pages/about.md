@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About the DQML 2022
+title: About DQML 2022
 image: assets/images/about/logo_dqml22.png
 ---
 
@@ -18,16 +18,3 @@ image: assets/images/about/logo_dqml22.png
   The website has been created by Kyunghoon Han, Alessio Fallani, James Gardner, and Wojciech Stark.<br>
   The logo of the conference has been created by Sam Hall.
 </center>
-
-<!-- clients -->
-<section class="section bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Sponsors of DQML22</h2>
-      </div>
-    </div>
-    {% include client-slider.html %}
-  </div>
-</section>
-<!-- /clients -->
