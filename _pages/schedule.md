@@ -42,9 +42,9 @@ image: assets/images/about/about_us.jpeg
     <td class="tg-4jry">Early morning</td>
     <td class="tg-vhtn">8:30-9:30<br></td>
     <td class="tg-gfnm" rowspan="4"><span style="color:#000">Arrival</span></td>
-    <td class="tg-feht">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Leonardo Medrano Sandonas<br><br>Alessandro Lunghi</td>
-    <td class="tg-vwhn">ML and design<br>Chair: Julia Westermayr<br><br>Oliver Unke</td>
-    <td class="tg-xso2">Fitting energies and properties<br>Chair: Reinhard Maurer<br><br>Wojciech Stark<br>Leonardo Medrano Sandonas</td>
+    <td class="tg-feht">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Mario Galante <br><br>P1: Alessandro Lunghi</td>
+    <td class="tg-vwhn">ML and molecular and materials design<br>Chair: Julia Westermayr<br><br>P4: Oliver Unke</td>
+    <td class="tg-xso2">Fitting energies and properties<br>Chair: Reinhard Maurer<br><br>J10: Wojciech Stark<br>J11: Kyunghoon Han</td>
   </tr>
   <tr>
     <td class="tg-4jry">Break</td>
@@ -54,9 +54,9 @@ image: assets/images/about/about_us.jpeg
   <tr>
     <td class="tg-4jry">Late morning</td>
     <td class="tg-vhtn">9:45-10:45</td>
-    <td class="tg-feht">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Leonardo Medrano Sandonas<br><br>Benedikt Klein<br>Pavlo Gordiichuk</td>
-    <td class="tg-vwhn">ML and design<br>Chair: Julia Westermayr<br><br>Alessio Fallani<br>Joseph Gilkes</td>
-    <td class="tg-xso2">Fitting energies and properties<br>Chair: Reinhard Maurer<br><br>Shay Chaudhuri<br>Mirela Puleva</td>
+    <td class="tg-feht">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Mario Galante <br><br>S4: Benedikt Klein<br>S5: Pavlo Gordiichuk</td>
+    <td class="tg-vwhn">ML and design<br>Chair: Julia Westermayr<br><br>J6: Alessio Fallani<br>J7: Joseph Gilkes</td>
+    <td class="tg-xso2">Fitting energies and properties<br>Chair: Reinhard Maurer<br><br>S12: James Gardner<br>J12: Mirela Puleva</td>
   </tr>
   <tr>
     <td class="tg-4jry">Early afternoon</td>
@@ -69,8 +69,8 @@ image: assets/images/about/about_us.jpeg
     <td class="tg-4jry">Late afternoon</td>
     <td class="tg-vhtn">16:00-17:00</td>
     <td class="tg-73oq">Opening remarks<br><br>Alexandre Tkatchenko<br>Reinhard Maurer<br></td>
-    <td class="tg-1a9d">Fluctuations and response<br>Chair: Igor Poltavskyi<br><br>James Gardner<br>Mario Galante<br>Szabolcs Goger</td>
-    <td class="tg-vq2r">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Benedikt Klein<br><br>Kyunghoon Han<br>Sam Hall<br>Ornella Vaccarelli</td>
+    <td class="tg-1a9d">Fundamental QM<br>Chair: Igor Poltavskyi<br><br>J1: Szabolcs Goger<br>J2: Dylan Morgan <br>S6: Ornella Vaccarelli</td>
+    <td class="tg-vq2r">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Benedikt Klein<br><br>S8: Mario Galante<br>J8: Billal Sohail<br>S9: Matteo Gori</td>
     <td class="tg-gfnm" rowspan="5"><span style="color:#000">Departure</span></td>
   </tr>
   <tr>
@@ -81,9 +81,9 @@ image: assets/images/about/about_us.jpeg
   <tr>
     <td class="tg-4jry">Later afternoon</td>
     <td class="tg-vhtn">17:30-18:30</td>
-    <td class="tg-73oq">Alexandre Tkatchenko<br>Reinhard Maurer<br></td>
-    <td class="tg-1a9d">Fluctuations and response<br>Chair: Igor Poltavskyi<br><br>Svenja Janke<br>Connor Box<br>Matej Ditte</td>
-    <td class="tg-vq2r">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Benedikt Klein<br><br>Oscar Douglas-Gallardo<br>Matteo Gori<br>Billal Sohail</td>
+    <td class="tg-73oq">ML for dynamics<br>Chair: Alexandre Tkatchenko<br><br>S1: Igor Poltavskyi<br>S2: Julia Westermayr</td>
+    <td class="tg-1a9d">Fundamental QM<br>Chair: Igor Poltavskyi<br><br>J3: Sam Hall<br>S7: Svenja Janke<br>J4: Matej Ditte</td>
+    <td class="tg-vq2r">Dynamics and spectroscopy<br>in hybrid materials<br>Chair: Benedikt Klein<br><br>S10: Oscar Douglas-Gallardo<br>S11: Leonardo Medrano Sandonas<br>J9: Shay Chaudhuri</td>
   </tr>
   <tr>
     <td class="tg-4jry">Dinner</td>
@@ -93,9 +93,9 @@ image: assets/images/about/about_us.jpeg
   <tr>
     <td class="tg-4jry">Evening</td>
     <td class="tg-vhtn">20:00-21:30</td>
-    <td class="tg-tqgz">ML for dynamics<br>Chair: Alexandre Tkatchenko<br><br>Igor Poltavskyi<br>Julia Westermayr</td>
-    <td class="tg-61xu">Materials science<br>Chair: Svenja Janke<br><br>Adil Kabylda<br>Carl Verdi</td>
-    <td class="tg-7od5">Fluctuations and response<br>Chair: Mario Galante<br><br>Dylan Morgan<br>Rocco Martinazzo</td>
+    <td class="tg-tqgz">Fluctuations and response <br>Chair: Mario Galante<br><br>S3: Connor Box<br>P1: Rocco Martinazzo</td>
+    <td class="tg-61xu">Reaction spaces and phase transitions <br>Chair: Julia Westermayr <br><br>J5: Adil Kabylda<br>P3: Carla Verdi</td>
+    <td class="tg-7od5">Open discussion/social event</td>
   </tr>
 </tbody>
 </table>
