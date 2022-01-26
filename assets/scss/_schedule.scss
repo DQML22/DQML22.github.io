@@ -8,7 +8,7 @@ $blockLengths: 1, 2, 3, 4;
   padding: 2rem 2rem;
   
   grid-template-columns: 5rem repeat(4, 1fr); 
-  grid-template-rows: repeat(28, 0.4fr);
+  grid-template-rows: repeat(28, 0.5fr);
   grid-template-areas:
     "day day day day day"
     "time830 stage stage stage stage"
@@ -57,7 +57,6 @@ $blockLengths: 1, 2, 3, 4;
   }
   
   &[class*="30"]:not(.start-1300) {
-    font-size: 0.8rem;
     color: #ccc;
   }
 }
@@ -82,14 +81,13 @@ $blockLengths: 1, 2, 3, 4;
   padding: 0.5rem 1rem;
   background-color: orange;
   border-radius: 0.2rem;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   font-weight: bold;
   line-height: 1.4;
   
   span {
     display: block;
     width: 100%;
-    font-size: 0.8em;
     font-weight: normal;
     padding: 0.2em 0.2em;
   }
