@@ -1,0 +1,120 @@
+
+$blockTimes: 830,900,930,1000,1030,1100,1130,1200,1230,1300,1330,1400,1430,1500,1530,1600,1630,1700,1730,1800,1830,1900,1930,2000,2030,2100,2130,2200;
+$blockLengths: 1, 2, 3, 4;
+
+.scheduleContainer {
+  display: grid;
+  grid-gap: 0.5rem;
+  padding: 2rem 2rem;
+  
+  grid-template-columns: 5rem repeat(4, 1fr); 
+  grid-template-rows: repeat(28, 0.4fr);
+  grid-template-areas:
+    "day day day day day"
+    "time830 stage stage stage stage"
+    "time900 stage stage stage stage"
+    "time930 stage stage stage stage"
+    "time1000 stage stage stage stage"
+    "time1030 stage stage stage stage"
+    "time1100 stage stage stage stage"
+    "time1130 stage stage stage stage"
+    "time1200 stage stage stage stage"
+    "time1230 stage stage stage stage"
+    "time1300 stage stage stage stage"
+    "time1330 stage stage stage stage"
+    "time1400 stage stage stage stage"
+    "time1430 stage stage stage stage"
+    "time1500 stage stage stage stage"
+    "time1530 stage stage stage stage"
+    "time1600 stage stage stage stage"
+    "time1630 stage stage stage stage"
+    "time1700 stage stage stage stage"
+    "time1730 stage stage stage stage"
+    "time1800 stage stage stage stage"
+    "time1830 stage stage stage stage"
+    "time1900 stage stage stage stage"
+    "time1930 stage stage stage stage"
+    "time2000 stage stage stage stage"
+    "time2030 stage stage stage stage"
+    "time2100 stage stage stage stage"
+    "time2130 stage stage stage stage"
+    "time2200 stage stage stage stage";
+}
+
+/**
+ * Time
+ */
+.time {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-top: thin dotted #ccc;
+  height: 100%;
+  padding: 0 0.5rem;
+  
+  @each $time in $blockTimes {
+    &.start-#{$time} {grid-area: time#{$time} }
+  }
+  
+  &[class*="30"]:not(.start-1300) {
+    font-size: 0.8rem;
+    color: #ccc;
+  }
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+//   border-top: thin dotted #ccc;
+  height: 100%;
+  padding: 0 0.5rem;
+  grid-area: day
+}
+
+/**
+ * Event
+ */
+.event {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0.5rem 1rem;
+  background-color: orange;
+  border-radius: 0.2rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  line-height: 1.4;
+  
+  span {
+    display: block;
+    width: 100%;
+    font-size: 0.8em;
+    font-weight: normal;
+    padding: 0.2em 0.2em;
+  }
+  
+  @each $time in $blockTimes {
+    &.start-#{$time} {grid-row-start: time#{$time} }
+  }
+  
+  @each $time in $blockTimes {
+    &.end-#{$time} {grid-row-end: time#{$time} }
+  }
+  
+  @each $length in $blockLengths {
+    &.length-#{$length} {
+      grid-column-end: span #{$length};
+    }
+  }
+  
+  .left{text-align: left;}
+
+  &.stage-arrival {background-color: #f3f3ed};
+  &.stage-opening {background-color: #9ccc65};
+  &.stage-break {background-color: #b3e5fc};
+  &.stage-ML {background-color: #ff8a65};
+  &.stage-dynspec {background-color: #26c7da};
+  &.stage-open {background-color: #81d4fa};
+  &.stage-other {background-color: #ffa726};
+}
