@@ -81,13 +81,14 @@ $blockLengths: 1, 2, 3, 4;
   padding: 0.5rem 1rem;
   background-color: orange;
   border-radius: 0.2rem;
-  font-size: 1.2rem;
+  font-size: 16px;
   font-weight: bold;
   line-height: 1.4;
   
   span {
     display: block;
     width: 100%;
+    font-size: 15px;
     font-weight: normal;
     padding: 0.2em 0.2em;
   }
