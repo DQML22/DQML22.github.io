@@ -8,7 +8,8 @@ tags:   Invited_Speaker
 ---
 Berlin Institute of Technology 
 
-**Title of the talk:** TBA
+**Title of the talk**   
+Equivariant deep learning architectures for chemistry.
 
-**Abstract**
-TBA
+**Abstract**  
+The aim of this presentation is to give a tutorial-like overview over techniques and building blocks for constructing rotationally equivariant deep learning architectures. In addition, the concept of rotational equivariance and why it can be useful in the context of machine learning for chemistry is explained. As an application example, the prediction of molecular Hamiltonians is discussed in more detail.
